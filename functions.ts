@@ -33,3 +33,5 @@ function imprimirLista (itens: Array<string>): void {
 }
 imprimirLista (['uva', 'maçã', 'pêra', 'mamão'])
 
+
+
